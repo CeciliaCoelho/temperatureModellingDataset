@@ -1,0 +1,5 @@
+# An Open Dataset for Temperature Modelling in Machine Tools
+### Fernández D., Hohmann M., Coelho C., Penter L., Ihlenfeldt S., Niggemann O.
+
+
+We introduce a structured, high-resolution dataset of transient thermal simulations for a vertical axis of a machine tool test rig. The data set includes temperature and heat flux values recorded at 29 probe locations at 1800 time steps, sampled every second over a 30-minute range, across 17 simulation runs derived from a fractional factorial design. First, a computer-aided design model was de-featured, segmented, and optimized, followed by finite element (FE) modelling. Detailed information on material, mesh, and boundary conditions is included. To support research and model development, the dataset provides summary statistics, thermal evolution plots, correlation matrix analyses, and a reproducible Jupyter notebook. The data set is designed to support machine learning and deep learning applications in thermal modelling for prediction, correction, and compensation of thermally induced deviations in mechanical systems, and aims to support researchers without FE expertise by providing ready-to-use simulation data.
